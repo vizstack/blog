@@ -6,3 +6,5 @@ Welcome to my blog! This is where I share exciting updates and milestones on my 
 
 ## What is Vizstack?
 > A programming environment that makes code and data structures easier to think about by rendering beautiful, interactive visualizations.
+
+![Vizstack Structure](https://github.com/vizstack/blog/blob/master/img/vizstack-structure.png)
