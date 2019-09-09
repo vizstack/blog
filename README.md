@@ -2,9 +2,9 @@
 Welcome to our blog! This is where we share exciting updates and milestones on our journey that is building Vizstack.
 
 ## Updates
-[Week 09/08](WEEK-09-08.md) - Designed and implemented an extremely modular and extensible graph layout library!
+[Week 09/08](WEEK-09-08.md) - Designed/implemented extremely modular & extensible `nodal` graph layout library!
 
-[Week 09/01](WEEK-09-01.md) - Created MVP for vz-logger (Javascript + Python), optimized design for complex layouts!
+[Week 09/01](WEEK-09-01.md) - Created MVP for `vz-logger` (Javascript + Python), optimized design for complex layouts!
 
 ## What is Vizstack?
 > A programming environment that makes code and data structures easier to think about by rendering beautiful, interactive visualizations.
