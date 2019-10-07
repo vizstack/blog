@@ -2,7 +2,9 @@
 Welcome to our blog! This is where we share exciting updates and milestones on our journey that is building Vizstack.
 
 ## Updates
-[Week 09/29](WEEK-09-29.md) (Latest) - Built and published `nodal` landing page, fully integrate shapes, and improve graph layout!
+[Week 10/06](WEEK-10-06.md) (Latest) - Published `nodal` landing page v2 with interactive demo/code generation, plus other new features!
+
+[Week 09/29](WEEK-09-29.md) - Built `nodal` landing page v1, fully integrate shapes, and improve graph layout!
 
 [Week 09/22](WEEK-09-22.md) - Redesigned core aesthetics, improved `nodal` library, and shapes, shapes, shapes!
 
