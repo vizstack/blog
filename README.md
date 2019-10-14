@@ -2,7 +2,9 @@
 Welcome to our blog! This is where we share exciting updates and milestones on our journey that is building Vizstack.
 
 ## Updates
-[Week 10/06](WEEK-10-06.md) (Latest) - Published `nodal` landing page v2 with interactive demo/code generation, plus other new features!
+[Week 10/13](WEEK-10-13.md) (Latest) - Finalize `nodal` landing page content & repo, prototype `vz-pytorch` computation graph visualizer!
+
+[Week 10/06](WEEK-10-06.md) - Published `nodal` landing page v2 with interactive demo/code generation, plus other new features!
 
 [Week 09/29](WEEK-09-29.md) - Built `nodal` landing page v1, fully integrate shapes, and improve graph layout!
 
