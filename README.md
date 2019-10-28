@@ -2,7 +2,9 @@
 Welcome to our blog! This is where we share exciting updates and milestones on our journey that is building Vizstack.
 
 ## Updates
-[Week 10/20](WEEK-10-20.md) (Latest) - Improve `vz-pytorch` computation graph visualizer and `core` fragments!
+[Week 10/27](WEEK-10-27.md) (Latest) - Redesign `DagLayout` lifecycles and better rendering for neural networks!
+
+[Week 10/20](WEEK-10-20.md) - Improve `vz-pytorch` computation graph visualizer and `core` fragments!
 
 [Week 10/13](WEEK-10-13.md) - Finalize `nodal` landing page content & repo, prototype `vz-pytorch` computation graph visualizer!
 
