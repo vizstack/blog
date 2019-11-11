@@ -2,7 +2,9 @@
 Welcome to our blog! This is where we share exciting updates and milestones on our journey that is building Vizstack.
 
 ## Updates
-[Week 11/03](WEEK-11-03.md) (Latest) - Implement orthogonal edge routing and improved force model for RNNs!
+[Week 11/10](WEEK-11-10.md) (Latest) - Improve structure visualization of complex neural networks!
+
+[Week 11/03](WEEK-11-03.md) - Implement orthogonal edge routing and improved force model for RNNs!
 
 [Week 10/27](WEEK-10-27.md) - Redesign `DagLayout` lifecycles and better rendering for neural networks!
 
